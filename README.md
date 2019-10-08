@@ -1,3 +1,3 @@
-# Problems
+## Submit a Problem or a Project Proposal
 
-List of problems worth working on, presented as github issues.
+[Create an issue](https://github.com/socialgoods/problems/issues/new)
